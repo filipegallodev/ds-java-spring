@@ -20,3 +20,10 @@ Este é o conteúdo abordado e praticado em cada aula durante a semana de progra
 - Padrão camadas
 - Controller, service e repository
 - Padrão DTO
+
+#### Aula 2
+
+- Relacionamentos N-N
+- Classe de associação, embedded id
+- Consultas SQL no Spring Data JPA
+- Projections
