@@ -35,3 +35,8 @@ Este é o conteúdo abordado e praticado em cada aula durante a semana de progra
 - Processo de homologação local
 - Processo de deploy com CI/CD
 - Configuração de CORS
+
+#### Aula 4
+
+- Design e implementação de endpoint
+- Verbo HTTP e idempotência
